@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data engineering & analytics</b> · Python · SQL · Databricks<br>
-  Belo Horizonte / Ribeirão das Neves, MG, Brazil 🇧🇷
+  Belo Horizonte-MG, Brazil 🇧🇷
 </p>
 
 <p align="center"><a href="README.md">🇧🇷 Português</a> · 🇺🇸 English</p>
